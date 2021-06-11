@@ -1,0 +1,31 @@
+* {
+    background-image: url(image.jpg);
+    
+}
+
+
+#top-left {
+ text-align: top;
+ color: whitesmoke;
+ border-right: 20px;
+}
+
+
+#top-right {
+    text-align: right;
+    color: whitesmoke;
+    position: absolute;
+    top: 8px;
+    right: 30px;
+    margin-left: 2in;
+}
+#text {
+    color:whitesmoke;
+    position:absolute;
+    text-align: center;
+    top: 50px;
+    margin-left: 1in;
+    margin-top: 1in;
+    opacity: 0.8;
+    font-family: cursive;
+}
